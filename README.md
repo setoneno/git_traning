@@ -2,3 +2,5 @@
 
 * first change
 * master branch commit
+* will be merged
+* will be rebased
